@@ -1,6 +1,6 @@
 {
   "name": "http-s-conf",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "HTTP server configured using s-conf",
   "main": "index.js",
   "repository": {
