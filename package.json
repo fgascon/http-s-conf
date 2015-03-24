@@ -1,0 +1,25 @@
+{
+  "name": "http-s-conf",
+  "version": "0.0.0",
+  "description": "HTTP server configured using s-conf",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fgascon/http-s-conf.git"
+  },
+  "keywords": [
+    "http",
+    "server",
+    "s-conf"
+  ],
+  "author": "fgascon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fgascon/http-s-conf/issues"
+  },
+  "homepage": "https://github.com/fgascon/http-s-conf",
+  "dependencies": {
+    "debug": "^2.1.3",
+    "s-conf": "0.0.0"
+  }
+}
